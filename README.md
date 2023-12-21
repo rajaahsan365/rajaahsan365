@@ -38,3 +38,37 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaahsan365&show_icons=true&locale=en&layout=compact" alt="rajaahsan365" />
 </p>
+
+<h2 align="center">Recent Projects</h2>
+
+- **RyseUp**
+  - My latest and most impactful project. RyseUp is an IoT-based solution designed for healthcare. I played a crucial role in crafting the entire UI and frontend functionality.
+
+- **Retailer.PK**
+  - A revolutionary tool for modern marketers. Retailer.PK manages product records and provides timely updates to shopkeepers, empowering them in the digital age.
+
+- **Creative Corner (formerly Blog Site)**
+  - Your personal space at Creative Corner. Open an account, unleash your creativity, and start crafting blogs effortlessly on this platform.
+
+- **Form Component**
+  - Simplifying form creation with ease. This component allows users to build forms dynamically using JSON data.
+
+- **Youtube Template Clone**
+  - Dive into the world of UI design by cloning the YouTube interface. Perfect for learning Material UI library.
+
+- **Resume Maker**
+  - Craft your professional story with Resume Maker. Create and download your resume for free, making job applications a breeze.
+
+- **Secour Islamic France**
+  - A dedicated project for NGOs. Secour Islamic France maintains records, registers user suggestions, and handles complaints effectively.
+
+- **Sajil**
+  - Finance in focus. Sajil brings financial solutions to the forefront, aiding in streamlined record-keeping.
+
+- **New Project: RyseUp**
+  - Embarking on a mission to revolutionize healthcare through IoT. RyseUp stands as a testament to my dedication in shaping a better future.
+
+<h2 align="center">Achievements</h2>
+
+- 🏆 **Open House Selection**
+  - Our project, the Steganography Malware Detection Tool, was selected for Open House.
