@@ -17,8 +17,22 @@
 - 🌱 Learning the art of building with **React Js and crafting mobile marvels with React Native**
 - 🤝 On a quest for collaborators to shape the future of **Dynamic Form Modules**
 - 👨‍💻 My virtual playground and showcase: [Resumemaker365](https://resumemaker365.netlify.app/)
-- 💬 Dive into my world: **Embark on a journey with Ahsan Zulfiqar, a dynamic and skilled front-end artisan wielding a Master's degree in Computer Science from NUML University. With over 1.5 years of crafting responsive, user-friendly web realms, I possess a profound command over web development tools—HTML, CSS, and JavaScript. My creations resonate with cross-browser compatibility and W3C standard compliance. I thrive on staying at the forefront of web development trends, ever-curious to embrace new technologies. A team player by nature, I excel under pressure, meeting tight deadlines with finesse. My commitment lies in delivering top-notch work, and I’m constantly seeking new challenges to hone my craft.**
 - ⚡ Fun fact: **Beyond the code, I’m a gamer and a seasoned explorer of the Minecraft universe.**
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:ahsanzulfiqar123786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct%20Message-blue" alt="Email" />
+  </a>
+  <a href="https://github.com/rajaahsan365">
+    <img src="https://img.shields.io/badge/GitHub-@rajaahsan365-green" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/raja-ahsan-11aa4222b" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <!-- Add more social badges here -->
+</p>
 
 <h2 align="center">Connect with Me</h2>
 
