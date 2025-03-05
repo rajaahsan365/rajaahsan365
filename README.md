@@ -1,81 +1,76 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajaahsan365&label=Profile%20views&color=0e75b6&style=flat" alt="rajaahsan365" />
-</p>
+# Ahsan Zulfiqar | Frontend Developer Portfolio
 
-<h1 align="center">Greetings! I'm Ahsan Zulfiqar 👋</h1>
-<h5 align="center">Passionate Frontend Developer from the vibrant landscapes of Pakistan</h5>
+## 👋 About Me
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajaahsan365" alt="rajaahsan365" />
-  </a>
-</p>
+I'm a passionate Frontend Developer with expertise in creating responsive, user-friendly web applications. Specializing in React ecosystem technologies, I'm committed to solving complex problems and developing innovative digital solutions.
 
-<h2 align="center">About Me</h2>
+## 🚀 Tech Stack
 
-- 🚀 Currently crafting digital experiences at [Centangle](http://sif.hostober.pk/)
-- 🌱 Learning the art of building with **React Js and crafting mobile marvels with React Native**
-- 🤝 On a quest for collaborators to shape the future of **Dynamic Form Modules**
-- 👨‍💻 My virtual playground and showcase: [Resumemaker365](https://resumemaker365.netlify.app/)
-- ⚡ Fun fact: **Beyond the code, I’m a gamer and a seasoned explorer of the Minecraft universe.**
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-<h2 align="center">Recent Projects</h2>
+### State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 
-- **RyseUp**
-  - My latest and most impactful project. RyseUp is an IoT-based solution designed for healthcare. I played a crucial role in crafting the entire UI and frontend functionality.
+### Backend & Testing
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-- **Retailer.PK**
-  - A revolutionary tool for modern marketers. Retailer.PK manages product records and provides timely updates to shopkeepers, empowering them in the digital age.
+## 📂 Featured Projects
 
-- **Creative Corner (formerly Blog Site)**
-  - Your personal space at Creative Corner. Open an account, unleash your creativity, and start crafting blogs effortlessly on this platform.
+### 1. RyseUp Desktop
+- **Technology**: React, Electron, MobX, Tailwind CSS
+- **Type**: IoT-based offline application
+- **Description**: Comprehensive desktop application with advanced functionality
 
-- **Form Component**
-  - Simplifying form creation with ease. This component allows users to build forms dynamically using JSON data.
+### 2. Resume Maker
+- **Technology**: React, Tailwind CSS
+- **Live Demo**: [Resume Maker Project](#)
+- **Description**: Interactive resume creation tool
 
-- **Youtube Template Clone**
-  - Dive into the world of UI design by cloning the YouTube interface. Perfect for learning Material UI library.
+### 3. Secour Islamic France
+- **Technology**: React.js, Bootstrap, Redux Toolkit
+- **Description**: Web application for Secour Islamic France
 
-- **Resume Maker**
-  - Craft your professional story with Resume Maker. Create and download your resume for free, making job applications a breeze.
+## 🎓 Education
 
-- **Secour Islamic France**
-  - A dedicated project for NGOs. Secour Islamic France maintains records, registers user suggestions, and handles complaints effectively.
+- **Master of Computer Science** (2020 - 2022)
+  - National University of Modern Languages (NUML)
+  - Notable Project: Steganography Malware Detection Tool
 
-- **Sajil**
-  - Finance in focus. Sajil brings financial solutions to the forefront, aiding in streamlined record-keeping.
+- **Bachelor of Science** (2018 - 2020)
+  - IMPGC H-8
+  - Foundational learning in web technologies
 
-- **New Project: RyseUp**
-  - Embarking on a mission to revolutionize healthcare through IoT. RyseUp stands as a testament to my dedication in shaping a better future.
+## 💼 Professional Experience
 
-<h2 align="center">Achievements</h2>
+**Frontend Developer** (2022 - Present)
+- Developed multiple React and Electron applications
+- Created user-friendly interfaces using Tailwind CSS & Bootstrap
+- Implemented state management with Redux Toolkit, MobX, and Zustand
+- Proficient in Cypress E2E Testing
 
-- 🏆 **Open House Selection**
-  - Our project, the Steganography Malware Detection Tool, was selected for Open House.
- 
-<h2 align="center">Let's Connect</h2>
+## 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:ahsanzulfiqar123786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Message-blue" alt="Email" />
-  </a>
-  <a href="https://github.com/rajaahsan365">
-    <img src="https://img.shields.io/badge/GitHub-@rajaahsan365-green" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/raja-ahsan-11aa4222b" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
- 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajaahsan365)
 
+**Email**: ahsanzulfiqar123786@gmail.com
+**Phone**: +92 342 5680365
 
-<h2 align="center">Languages and Tools</h2>
+## 🌟 Quick Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <!-- Add other icons here -->
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaahsan365&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaahsan365&layout=compact&theme=radical)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaahsan365&show_icons=true&locale=en&layout=compact" alt="rajaahsan365" />
-</p>
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
