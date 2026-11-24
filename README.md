@@ -12,7 +12,7 @@ My current focus is **AI-powered applications**: LLM integration, agentic tool u
 
 | Area | Technologies |
 | --- | --- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Shadcn UI, HeroUI, Electron, React Native (Expo) |
+| **Frontend** | React, Next.js, Electron, React Native (Expo), Tanstack Start, TypeScript, Tailwind CSS, Shadcn UI, HeroUI |
 | **State & Data** | Redux Toolkit, RTK Query, TanStack Query, Zustand, MobX |
 | **Backend** | Node.js, Express, NestJS, Bun, Hono, REST APIs, WebSockets |
 | **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Pinecone |
